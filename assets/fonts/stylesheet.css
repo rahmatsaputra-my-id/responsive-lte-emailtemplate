@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Muli-Regular';
+    src: url('Muli-Regular.eot');
+    src: url('Muli-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Muli-Regular.woff2') format('woff2'),
+        url('Muli-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Muli-Bold';
+    src: url('Muli-Bold.eot');
+    src: url('Muli-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Muli-Bold.woff2') format('woff2'),
+        url('Muli-Bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
